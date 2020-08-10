@@ -7,24 +7,20 @@ entries:
     entries:
       - title: about the club
         url: about
+      - title: the officers
+        url: team
 
-  - title: thoughts
+  - title: posts
     post_list: true
     url: false
     entries: false
- 
-  - title: another list
+
+  - title: about this site
     url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+    entries: 
+        - title: powered by Jekyll
+          url: https://jekyllrb.com/
+        - title: made using this theme
+          url: https://github.com/riggraz/no-style-please/
+        - title: created by Shreeram Modi
+          url: https://github.com/Shrimpram
