@@ -1,9 +1,9 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+title: Lynbrook Philosophy Club # name of the site
+author: Lynbrook Philosophy Club # name of site's author
+email: lynbrookphil1@gmail.com # email of site's author
+url: https://lynbrookphil.github.io/main # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+        The Lynbrook Philosophy Club's website
 
 permalink: /:slug.html
 
@@ -14,7 +14,7 @@ favicon: "./logo.png" # relative path to site's favicon
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
