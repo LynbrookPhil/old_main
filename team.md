@@ -19,7 +19,7 @@ TEXT PLACEHOLDER
 
 ## Content Dev
 Shreeram Modi  
-IMAGE PLACEHOLDER  
+![Shreeram](/assets/shreeram_Small.jpg)  
 TEXT PLACEHOLDER  
 
 ## Treasurer
