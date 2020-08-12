@@ -4,6 +4,7 @@ title: About The Club
 ---
 Lynbrook Philosophy Club is a club where you will learn about different philosophers and their philosophies. There's no one true way to see the world, so we're here to show you different ways and let you make that decision yourself. By analyzing real events through the lens of different philosophies we can get a deeper understanding of both the philosophies, and the world we live in.
 
+
 We're still looking to get approved by ASB. If you're interested in philosophy and want to help the Lynbrook Philosophy Club come to life, please fill out the form below! You'll get our discord link once you fill it out. Discord is where we'll be having all of our discussions and meetings while school is still online.
 ---
 

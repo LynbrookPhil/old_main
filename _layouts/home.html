@@ -6,7 +6,8 @@ layout: default
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
-    <link rel="shortcut icon" type="image/png" href="logo.png">
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "logo.png"  | absolute_url }}">
 </header>
 
 {% include menu_item.html collection=site.data.menu.entries %}
