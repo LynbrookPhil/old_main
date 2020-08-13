@@ -19,10 +19,10 @@ TEXT PLACEHOLDER
 
 ## Content Dev
 Shreeram Modi  
-![Shreeram](/assets/shreeram_Small.jpg)  
-TEXT PLACEHOLDER  
+![Shreeram](/assets/shreeram.jpg)  
+Hi, I'm Shreeram, I'm a junior and I'll be your Content Dev for 2020-21. Philosophy and how we see the world has always been interesting to me. Each person sees things slightly differently, and that difference can have huge impacts on how they live life. Through phil club I hope to both learn more and educate about different worldviews. When I have free time I play video games, trade stocks, and do debate.
 
 ## Treasurer
 Arnav Jain  
-IMAGE PLACEHOLDER  
-TEXT PLACEHOLDER  
+![ArnavJ](/assets/ArnavJ.jpg)  
+Hi, I'm Arnav, I'm a junior and I will be serving as your 2020-2021 Treasurer! I joined philosophy club because I love to think and discuss many logical questions at a deeper level as it improves my critical thinking skills and makes me truly fascinated when I learn different methodologies. In my free time, I love to learn about finance/economics and play competitive soccer.
