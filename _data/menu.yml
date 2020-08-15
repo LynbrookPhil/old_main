@@ -9,6 +9,8 @@ entries:
         url: about
       - title: the officers
         url: team
+      - title: interest form
+        url: interest-form
 
   - title: posts
     post_list: true
