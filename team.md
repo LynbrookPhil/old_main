@@ -4,8 +4,8 @@ title: Officers
 ---
 ## President
 **Ayush Mishra**  
-IMAGE PLACEHOLDER  
-TEXT PLACEHOLDER  
+![Ayush](assets/auysh.jpg)  
+Hi, my name is Ayush and I'm a senior and will be the President for 2020-21. I created this club because I was interested in different approaches to understanding the world, a fundamental part of philosophy. Through this club, I would like to expand my own understanding while helping others do the same. In my free time, I debate and watch movies.  
 
 ## Vice President
 **Yash Mishra**  
