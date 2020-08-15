@@ -9,8 +9,8 @@ Hi, my name is Ayush and I'm a senior and will be the President for 2020-21. I c
 
 ## Vice President
 **Yash Mishra**  
-IMAGE PLACEHOLDER  
-TEXT PLACEHOLDER  
+![Yash](assets/yash.png)  
+Hi, my name is Yash Mishra and I will be the Vice President for the 2020-2021 school year. I am interested by both the developments of philosophy throughout history as well as its modern-day applications. In my free time, I like doing debate and watching cricket. 
 
 ## PR 
 **Arnav Dixit**  
